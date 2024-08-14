@@ -1,0 +1,14 @@
+/Users/denys/git/cha-chat/rserver/target/debug/deps/libuuid-f75175d7c2510cdf.rmeta: /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/lib.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/builder.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/error.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/parser.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/fmt.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/timestamp.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/v4.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/rng.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/external.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/macros.rs
+
+/Users/denys/git/cha-chat/rserver/target/debug/deps/uuid-f75175d7c2510cdf.d: /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/lib.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/builder.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/error.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/parser.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/fmt.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/timestamp.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/v4.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/rng.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/external.rs /Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/macros.rs
+
+/Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/lib.rs:
+/Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/builder.rs:
+/Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/error.rs:
+/Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/parser.rs:
+/Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/fmt.rs:
+/Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/timestamp.rs:
+/Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/v4.rs:
+/Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/rng.rs:
+/Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/external.rs:
+/Users/denys/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/macros.rs:
