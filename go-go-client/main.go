@@ -22,7 +22,7 @@ func main() {
 	for scanner.Scan() {
 		text := scanner.Text()
 		username := "uncatched"
-		message := username + ":" + text
+		message := username + ":" + text + "\n"
 		data := []byte(message)
 		_, err := conn.Write(data)
 		if err != nil {

@@ -1,4 +1,4 @@
-module go-go-client
+module main
 
 go 1.22.6
 
